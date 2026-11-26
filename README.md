@@ -1,218 +1,321 @@
- <div align="center">
+ <!-- ================================================================ -->
+<!-- MRBAKU | DEVELOPER • HOSTING ENGINEER • SOFTWARE & INFRASTRUCTURE -->
+<!-- ================================================================ -->
 
-# 👋 Hey, I'm MrBaku!
+<div align="center">
 
-### 💻 Web Developer | Hosting Developer | Server Administrator
-### 🚀 Building Projects, Exploring Technology & Turning Ideas Into Reality
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MRBAKU&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%E2%80%A2%20HOSTING%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descSize=13&descAlignY=60&color=0:020617,40:0B2B50,75:075985,100:06B6D4" width="100%" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Developer+%7C+Hosting+Engineer+%F0%9F%92%BB;Building+RyznCloud+%E2%98%81%EF%B8%8F;Minecraft+Plugin+Developer+%F0%9F%8E%AE;Linux+%26+Server+Administrator+%F0%9F%96%A5%EF%B8%8F;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing animation" />
 
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
+<br/>
+
+<a href="https://github.com/MrBaku">
+<img src="https://img.shields.io/badge/GITHUB-MrBaku-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
-&nbsp;&nbsp;
-<a href="https://discord.com/">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" />
+<a href="https://www.ryzncloud.site/">
+<img src="https://img.shields.io/badge/WEBSITE-RyznCloud-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<a href="https://discord.gg/Av7CTMMaJH">
+<img src="https://img.shields.io/badge/DISCORD-Join%20Community-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
 </a>
 
-<br><br>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrBaku&color=blue&style=flat-square&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/Status-Active%20Developer-success?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=MrBaku&label=PROFILE%20VISITORS&color=0284C7&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Infrastructure-075985?style=for-the-badge&logo=codefactor&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧭 About Me
+<h2 id="whoami">🖥️ whoami</h2>
 
-Hey! I'm **MrBaku**, a passionate developer interested in web development, hosting infrastructure, server management, automation, and modern technology.
+```bash
+┌──(mrbaku㉿developer)-[~]
+└─$ whoami
 
-I enjoy building websites, developing management systems, configuring Linux servers, and creating tools that make things easier.
+Name       : MrBaku
+Role       : Developer & Hosting Enthusiast
+Interests  : Web Development, Linux & Automation
+Projects   : RyznCloud, Reaper SMP, Ryzn Client
+Focus      : Building Modern Digital Solutions
+Mindset    : Learn • Build • Improve • Repeat
+```
 
-My goal is to become a professional full-stack developer while continuing to explore the world of infrastructure and software development.
+Hey! I'm **MrBaku**, a developer and technology enthusiast passionate about building websites, hosting infrastructure, software, Minecraft projects, and automation systems.
 
-> 💡 **My Philosophy:** Don't just build projects. Build something useful, powerful, secure, and reliable.
+I enjoy turning creative ideas into real-world applications, managing Linux servers, developing custom tools, and experimenting with new technologies.
 
----
+My journey combines software development with server infrastructure.
 
-## 🎯 What I Do
-
-| Area | Description |
-|---|---|
-| 🌐 Web Development | Building modern, responsive and professional websites. |
-| ⚙️ Backend Development | Developing APIs, systems and server-side applications. |
-| 🖥️ Server Management | Linux, VPS, hosting panels and server administration. |
-| ☁️ Hosting Development | Hosting infrastructure, management panels and automation. |
-| 🎮 Minecraft Development | Minecraft servers, plugins, configurations and communities. |
-| 🤖 Discord Development | Bots, automation systems and Discord management tools. |
-
----
-
-## 🚀 Featured Projects
-
-Some of the projects and ideas I'm working on:
-
-- ☁️ **RyznCloud** — Hosting services and infrastructure.
-- 🎮 **Reaper SMP** — Minecraft multiplayer server project.
-- 💻 **Ryzn Client** — Custom Minecraft launcher project.
-- ⚙️ **Hosting Management Panel** — Server management and automation.
-- 🤖 **Discord Bots** — Custom bots and community management systems.
-- 🌐 **Web Development Projects** — Modern websites and web applications.
-
-> 📌 More projects and repositories will be published as development progresses.
+> ⚡ My goal is simple: Build powerful projects, solve real problems, and keep improving every day.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/48/web.png"/>
+
+**WEB DEVELOPMENT**
+
+Modern websites, responsive designs, dashboards and web applications.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/48/server.png"/>
+
+**HOSTING ENGINEERING**
+
+VPS management, Linux servers, hosting panels and infrastructure.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/48/controller.png"/>
+
+**MINECRAFT DEVELOPMENT**
+
+Plugins, launchers, SMP servers and custom gaming systems.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/48/bot.png"/>
+
+**BOT DEVELOPMENT**
+
+Discord bots, automation and community management.
+
+</td>
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/48/cloud.png"/>
+
+**CLOUD TECHNOLOGY**
+
+Hosting services, deployment and cloud infrastructure.
+
+</td>
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/48/source-code.png"/>
+
+**SOFTWARE DEVELOPMENT**
+
+Custom applications, tools and development projects.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ☁️ My Brands & Projects
+
+<div align="center">
+
+<a href="https://www.ryzncloud.site/">
+<img src="https://img.shields.io/badge/RYZNCLOUD-Hosting%20Infrastructure-075985?style=for-the-badge&logo=server&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/REAPER%20SMP-Minecraft%20Community-7C3AED?style=for-the-badge&logo=minecraft&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/RYZN%20CLIENT-Custom%20Launcher-0284C7?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+
+</div>
+
+### ☁️ RyznCloud
+
+My hosting project focused on providing hosting services, server infrastructure and management solutions.
+
+- VPS and game server hosting.
+- Pterodactyl Panel and Wings.
+- Linux server administration.
+- Hosting management systems.
+- Website and infrastructure deployment.
+
+Website: https://www.ryzncloud.site/
+
+### 🎮 Reaper SMP
+
+A Minecraft multiplayer community project.
+
+- Minecraft server management.
+- Custom gameplay systems.
+- Events and community activities.
+- Custom plugins and configurations.
+
+### 💻 Ryzn Client
+
+A custom Minecraft launcher project.
+
+- Electron-based application.
+- Microsoft authentication integration.
+- Minecraft version selection.
+- RAM allocation.
+- Custom launcher interface.
+
+---
+
+## 🧰 Technical Arsenal
 
 ### 🎨 Frontend Development
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</div>
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Programming
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=python)
-![PHP](https://skillicons.dev/icons?i=php)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,mysql&theme=dark" />
+</div>
 
-### 🖥️ Systems & DevOps
+### 🖥️ Operating Systems & Infrastructure
 
-![Linux](https://skillicons.dev/icons?i=linux)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Debian](https://skillicons.dev/icons?i=debian)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash,cloudflare&theme=dark" />
+</div>
 
-### 🎮 Other Technologies
+### 🛠️ Development Tools
 
-![Discord](https://skillicons.dev/icons?i=discord)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Electron](https://skillicons.dev/icons?i=electron)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,electron,discord,idea&theme=dark" />
+</div>
 
 ---
 
-## ☁️ Hosting & Infrastructure
+## ⚡ Server & Infrastructure Arsenal
 
-I enjoy working with server infrastructure and hosting technologies.
-
-- 🖥️ Linux VPS Administration
-- ⚙️ Pterodactyl Panel & Wings
-- 🐳 Docker & Containerization
-- 🌐 Cloudflare DNS & Protection
-- 🔐 SSH & Server Security
-- 🚀 Website Deployment
-- 📦 Server Automation
-- 🗄️ Database Management
+| Technology | Area |
+|---|---|
+| 🐧 Linux | Server Administration |
+| 🐳 Docker | Container Management |
+| 🪽 Pterodactyl | Game Server Management |
+| 🌐 Cloudflare | DNS & Network Protection |
+| 🔧 Nginx | Web Server |
+| 🔐 SSH | Remote Server Access |
+| 🗄️ MariaDB | Database Management |
+| ☁️ VPS | Hosting Infrastructure |
 
 ---
 
-## 💼 What I'm Building
+## 🧪 Development Projects
 
-My focus is on creating useful and practical projects.
-
-| Project | Technology | Status |
+| Project | Description | Status |
 |---|---|---|
-| Hosting Management System | Node.js / Web | 🚧 In Development |
-| Minecraft Launcher | Electron | 🚧 In Development |
-| Discord Management Bot | Python / Discord API | 🚧 In Development |
-| Modern Websites | HTML / CSS / JS | 🔄 Ongoing |
-| Minecraft Plugins | Java | 🔄 Ongoing |
+| RyznCloud | Hosting infrastructure | 🔄 Ongoing |
+| Ryzn Client | Minecraft launcher | 🚧 Development |
+| Reaper SMP | Minecraft community | 🔄 Ongoing |
+| Custom Discord Bots | Automation systems | 🔄 Development |
+| Minecraft Plugins | Custom gameplay features | 🔄 Development |
+| Hosting Management Panel | Server management system | 🚧 Development |
 
 ---
 
-## 🧠 My Development Philosophy
+## 🎯 Current Development Goals
 
-The principles I follow while developing:
-
-- 🛡️ **Security First** — Build secure and reliable applications.
-- 📚 **Continuous Learning** — Always learn new technologies.
-- ⚡ **Performance Matters** — Keep applications fast and optimized.
-- 🧹 **Clean Code** — Write understandable and maintainable code.
-- 🚀 **Build & Improve** — Turn ideas into real working projects.
-- 🤝 **Community** — Learn, share and grow together.
-
----
-
-## 📚 Current Learning Goals
-
-- 🌐 Advanced Full-Stack Web Development
-- ⚙️ Backend Architecture & REST APIs
-- 🐳 Docker & Advanced DevOps
-- 🔐 Cybersecurity Fundamentals
-- ☁️ Cloud Infrastructure
-- 🤖 Automation & AI Integration
-- 🎮 Advanced Minecraft Plugin Development
+- 🌐 Improve full-stack web development.
+- ⚙️ Build advanced hosting management panels.
+- 🐳 Learn advanced Docker and DevOps.
+- 🤖 Develop more advanced Discord bots.
+- 🎮 Create custom Minecraft plugins.
+- ☁️ Improve cloud and VPS infrastructure.
+- 🔐 Learn more about application and server security.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrBaku&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrBaku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBaku&theme=tokyonight&hide_border=true" width="48%" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBaku&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaku&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 
 </div>
 
 ---
 
-## 🏆 Contribution Graph
+## 🏆 Contribution Activity
 
 <div align="center">
 
-[![MrBaku's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBaku&theme=tokyo-night&hide_border=true)](https://github.com/MrBaku)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrBaku&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0284C7&point=FFFFFF" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 💡 My Developer Philosophy
 
-Have an interesting project, collaboration idea, or just want to talk about technology?
+```yaml
+developer:
+  mindset: "Never Stop Learning"
+  principles:
+    - Build Before You Give Up
+    - Security Matters
+    - Write Clean Code
+    - Automate Repetitive Tasks
+    - Keep Improving
+    - Help The Community
 
-Feel free to connect with me!
+  goals:
+    - Build Powerful Software
+    - Create Reliable Infrastructure
+    - Develop Useful Tools
+    - Grow Successful Projects
+```
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/MrBaku">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.gg/Av7CTMMaJH">
+<img src="https://img.shields.io/badge/Discord-Join%20RyznCloud-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.ryzncloud.site/">
+<img src="https://img.shields.io/badge/Website-RyznCloud-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-⭐ **If you like my work, consider giving my repositories a star!**
+**Have a project or collaboration idea? Let's build something amazing!**
 
-<br>
+<br/>
 
-*Building ideas into reality, one line of code at a time.* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,40:0B2B50,100:06B6D4&text=BUILD.%20CREATE.%20INNOVATE.&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+*One developer. Countless ideas. Unlimited possibilities.* 🚀
 
 </div>
